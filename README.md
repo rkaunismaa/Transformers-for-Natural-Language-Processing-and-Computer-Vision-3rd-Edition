@@ -29,13 +29,17 @@ Ugh ... I need matplotlib to install, so I am going to try this again, but unins
 
 STARTING OVER ....
 
- 1) mamba create -n t4nlpacv python=3.11
- 2) mamba activate t4nlpacv
- 3) mamba install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
- 4) mamba install conda-forge::scikit-learn==1.3.0
- 5) mamba install conda-forge::matplotlib
- 6) mamba install conda-forge::jupyterlab
- 7) mamba install conda-forge::ipywidgets
- 8) mamba install conda-forge::pandas
+  1) mamba create -n t4nlpacv python=3.11
+  2) mamba activate t4nlpacv
+  3) mamba install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+  4) mamba install conda-forge::scikit-learn==1.3.0
+  5) mamba install conda-forge::matplotlib
+  6) mamba install conda-forge::jupyterlab
+  7) mamba install conda-forge::ipywidgets
+  8) mamba install conda-forge::pandas
 
  OK! I am able to run the notebooks from Chapter01! (except for the TensorFlow parts) Nice!
+
+  9) mamba install conda-forge::transformers
+ 10) mamba install conda-forge::gensim
+ 11) mamba install conda-forge::nltk
