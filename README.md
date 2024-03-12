@@ -4,6 +4,20 @@ This will be a walk through of select code samples of the book "Transformers for
 
 <img src="Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
+## Tuesday, March 12, 2024
+
+* pip install -U trax --dry-run
+
+I ran the above just to see what would get installed if I ran it, and it will install tensorflow-2.16.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl so I did NOT run the actual install command. I MAY do that some later time if I think it will be useful. Another consideration is to create another conda environment for any and all Tensorflow/TRAX related notebooks. 
+
+Hmm actually, what I am going to do is this ... I am going to clone this conda environment 't4nlpacv' to 't4nlpacv-2' and then I will install the latest version of Tensorflow and TRAX in that new environment.
+
+ 1) mamba create -n t4nlpacv-2 --clone t4nlpacv
+ 2) mamba activate t4nlpacv-2
+ 3) pip install tensorflow
+ 4) pip install -U trax
+ 5) pip install googletrans==4.0.0-rc1 
+
 ## Monday, March 11, 2024
 
 I created a conda environment for this repository:
