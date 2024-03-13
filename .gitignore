@@ -4,3 +4,6 @@ Chapter04/english_vocab.pkl
 Chapter04/french_vocab.pkl
 
 content/
+
+Chapter05/in_domain_train.tsv
+Chapter05/out_of_domain_dev.tsv

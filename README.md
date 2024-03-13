@@ -4,6 +4,10 @@ This will be a walk through of select code samples of the book "Transformers for
 
 <img src="Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
+## Wednesday, March 13, 2024
+
+Back on the 't4nlpacv-2' conda environment for the notebook on Chapter05
+
 ## Tuesday, March 12, 2024
 
 * pip install -U trax --dry-run
@@ -17,6 +21,10 @@ Hmm actually, what I am going to do is this ... I am going to clone this conda e
  3) pip install tensorflow
  4) pip install -U trax
  5) pip install googletrans==4.0.0-rc1 
+
+And just because I want to see if I can get trax running with jax on the gpu, I also ran this ... [Installing JAX](https://jax.readthedocs.io/en/latest/installation.html)]
+
+ 7) pip install --upgrade "jax[cuda11_pip]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 
 ## Monday, March 11, 2024
 
