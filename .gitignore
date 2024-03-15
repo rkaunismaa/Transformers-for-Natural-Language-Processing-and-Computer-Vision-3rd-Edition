@@ -7,3 +7,6 @@ content/
 
 Chapter05/in_domain_train.tsv
 Chapter05/out_of_domain_dev.tsv
+
+Chapter06/KantaiBERT/
+Chapter06/kant.txt
