@@ -4,6 +4,26 @@ This will be a walk through of select code samples of the book "Transformers for
 
 <img src="Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
+## Monday, March 18, 2024
+
+Chapter07 notebooks. They all call OpenAI.
+
+mamba activate t4nlpacv
+
+* mamba install conda-forge::openai (1.14.0)
+* mamba install conda-forge::tiktoken (0.6.0)
+* pip install cohere (4.56)
+* pip install lxml
+* pip install feedparser
+
+So far for the month of March, I have not made any calls to OpenAI.
+
+## Friday, March 15, 2024
+
+mamba activate t4nlpacv
+
+* mamba install conda-forge::accelerate
+
 ## Wednesday, March 13, 2024
 
 Back on the 't4nlpacv-2' conda environment for the notebook on Chapter05
