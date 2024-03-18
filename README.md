@@ -18,6 +18,8 @@ mamba activate t4nlpacv
 
 So far for the month of March, I have not made any calls to OpenAI.
 
+Running all 4 notebooks, of which 2 make calls to OpenAI GPT-4, total usage amounted to $00.06. 
+
 ## Friday, March 15, 2024
 
 mamba activate t4nlpacv
