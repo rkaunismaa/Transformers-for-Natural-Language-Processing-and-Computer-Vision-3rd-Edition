@@ -4,6 +4,11 @@ This will be a walk through of select code samples of the book "Transformers for
 
 <img src="Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
+## Wednesday, March 20, 2024
+
+Re-running the notebooks from Chapter02, Chapter03, Chapter04 ...
+... as I go through the book chapters.
+
 ## Monday, March 18, 2024
 
 Chapter07 notebooks. They all call OpenAI.
