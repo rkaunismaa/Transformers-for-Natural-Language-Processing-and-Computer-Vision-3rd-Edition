@@ -4,9 +4,16 @@ This will be a walk through of select code samples of the book "Transformers for
 
 <img src="Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
+## Thursday, March 21, 2024
+
+mamba activate t4nlpacv-2
+
+* pip install wget
+* mamba install conda-forge::seaborn
+
 ## Wednesday, March 20, 2024
 
-Re-running the notebooks from Chapter02, Chapter03, Chapter04 ...
+Re-running the notebooks from Chapter02, Chapter03, Chapter04, Chapter05 ...
 ... as I go through the book chapters.
 
 ## Monday, March 18, 2024

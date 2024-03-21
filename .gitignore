@@ -7,6 +7,9 @@ content/
 
 Chapter05/in_domain_train.tsv
 Chapter05/out_of_domain_dev.tsv
+Chapter05/cola_public/
+Chapter05/cola_public_1.1.zip
+Chapter05/model_save/
 
 Chapter06/KantaiBERT/
 Chapter06/kant.txt
