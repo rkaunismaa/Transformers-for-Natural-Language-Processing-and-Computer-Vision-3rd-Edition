@@ -4,6 +4,14 @@ This will be a walk through of select code samples of the book "Transformers for
 
 <img src="Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
+## Tuesday, March 26, 2024
+
+mamba activate t4nlpacv
+
+* pip install bertviz
+* pip install xformers
+* mamba install conda-forge::shap
+
 ## Friday, March 22, 2024
 
 Chapter08/Fine_tuning_OpenAI_Models.ipynb ... Fine-tuning OpenAI GPT-3 ... and yeah of course, it uses OpenAI.
