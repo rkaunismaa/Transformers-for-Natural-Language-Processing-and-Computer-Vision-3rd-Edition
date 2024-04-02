@@ -12,6 +12,7 @@ mamba activate t4nlpacv
 Exploring notebooks in Chapter10.
 
 * mamba install conda-forge::tabulate
+* mamba install conda-forge::sentence-transformers
 
 ## Tuesday, March 26, 2024
 
