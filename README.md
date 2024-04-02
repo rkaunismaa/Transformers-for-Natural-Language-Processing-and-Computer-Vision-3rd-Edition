@@ -4,6 +4,15 @@ This will be a walk through of select code samples of the book "Transformers for
 
 <img src="Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
+
+## Tuesday, April 2, 2024
+
+mamba activate t4nlpacv
+
+Exploring notebooks in Chapter10.
+
+* mamba install conda-forge::tabulate
+
 ## Tuesday, March 26, 2024
 
 mamba activate t4nlpacv
