@@ -29,3 +29,9 @@ Chapter10/large_corpus.txt
 Chapter10/m.model
 Chapter10/m.vocab
 
+Chapter11/Descartes.txt
+Chapter11/descartes_word2vec.model
+Chapter11/fine_food_reviews_with_embeddings_1k.csv
+Chapter11/fine_food_reviews_with_embeddings_1k.zip
+Chapter11/winter_olympics_2022.csv
+
