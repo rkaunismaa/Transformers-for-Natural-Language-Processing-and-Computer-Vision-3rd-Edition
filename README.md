@@ -4,6 +4,11 @@ This will be a walk through of select code samples of the book "Transformers for
 
 <img src="Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
 
+## Wednesday, April 3, 2024
+
+mamba activate t4nlpacv
+
+* mamba install conda-forge::openai[embeddings]  ... this update openai from 1.14.0 to 1.15.0, and I don't think the [embeddings] part actually did anything, but added it because of the example of 'pip install openai[embeddings]' ...
 
 ## Tuesday, April 2, 2024
 
